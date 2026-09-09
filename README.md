@@ -23,6 +23,6 @@ Mỗi bài toán bao gồm 3 file:
 3. `ket-qua-test.md`: Kết quả chạy thực tế và so sánh Pass/Fail.
 
 ## Hướng dẫn chạy chương trình
-1. Di chuyển vào thư mục bài cần chạy: `cd Bai01`
+1. Di chuyển vào thư mục bài cần chạy: `cd bai1` 
 2. Biên dịch code C: `gcc bai1_chu_vi_hinh_chu_nhat.c -o main`
 3. Chạy chương trình: `./main`
